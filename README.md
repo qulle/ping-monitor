@@ -1,7 +1,7 @@
 # Ping Monitor
 
 ## About
-PowerShell script to ping a list of servers and log faults to Kibana/Logstash.
+PowerShell script to ping a list of servers and log faults to Kibana/Logstash via http endpoint.
 
 The full script is displayed below.
 ```powershell
