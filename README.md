@@ -1,6 +1,9 @@
 # Ping Monitor
-PowerShell script to ping a list of servers and log faults to Kibana/Logstash
 
+## About
+PowerShell script to ping a list of servers and log faults to Kibana/Logstash.
+
+The full script is displayed below.
 ```powershell
 $env = @{
     test = "https://001.localhost:1234";
@@ -51,3 +54,6 @@ foreach($hostname in $hostnames) {
     }
 }
 ```
+
+## Author
+[Qulle](https://github.com/qulle/)
