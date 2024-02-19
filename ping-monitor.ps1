@@ -1,4 +1,4 @@
-#   About: Script to ping a list of servers and log faults to Kibana/Logstash via http endpoint.
+#   About: Script to ping a list of servers and log faults to Kibana/Logstash via http endpoint
 #  Author: Qulle
 #    Date: 2024-02-15
 # Version: 1.0.0
