@@ -1,3 +1,8 @@
+#   About: Script to ping a list of servers and log faults to Kibana/Logstash via http endpoint.
+#  Author: Qulle
+#    Date: 2024-02-15
+# Version: 1.0.0
+
 $env = @{
     test = "https://001.localhost:1234";
     prod = "https://002.localhost:1234";
